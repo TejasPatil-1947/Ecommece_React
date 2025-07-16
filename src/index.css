@@ -1,0 +1,122 @@
+
+#card {
+width: 300px;                         
+  height: 600px; 
+  background: linear-gradient(145deg, #e0f7fa, #ffffff); 
+  margin: 20px;
+  float: left;
+  border: 2px solid #b2ebf2; 
+  border-radius: 16px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  padding: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#card:hover {
+  transform: translateY(-10px); 
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(145deg, #d2f1f6, #ffffff);
+}
+
+.btn{
+  margin: 10px;
+  width: 200px;
+  height: 100px;
+  
+}
+
+.btn1 {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.btn1:hover {
+  background-color: #0056b3;
+}
+
+
+
+
+
+.home-container {
+  padding: 40px;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f9f9;
+}
+
+.hero-section {
+  text-align: center;
+  background: linear-gradient(to right, #e0f7fa, #ffffff);
+  padding: 50px;
+  border-radius: 16px;
+  margin-bottom: 40px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.hero-section h1 {
+  font-size: 2.8rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+  margin-top: 15px;
+  color: #555;
+}
+
+.hero-section .btn {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  padding: 10px 25px;
+  border-radius: 8px;
+}
+
+.features-section {
+  text-align: center;
+}
+
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.feature-card {
+  background: #ffffff;
+  padding: 20px;
+  width: 280px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-10px);
+}
+
+.feature-icon {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.detailsCard{
+  margin-left: 760px;
+  box-shadow: 4px 3px 20px rgba(0, 0, 0, 0.349);
+  margin-top: 200px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.detailsCard:hover{
+  transform: translateY(-10px); 
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(145deg, #d2f1f6, #ffffff);
+}

@@ -1,0 +1,100 @@
+{
+  "product": [
+    {
+      "img1": "https://cdn.pixabay.com/photo/2014/12/08/14/23/pocket-watch-560937_1280.jpg",
+      "id": 1,
+      "name": "Titan",
+      "category": "Watch",
+      "description": "Titan watches combine elegant design and precision. Perfect for every occasion, they offer durability, style, and performance in one beautiful timepiece.",
+      "price": 3000
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2017/03/20/15/13/wrist-watch-2159351_640.jpg",
+      "id": 2,
+      "name": "Sonata",
+      "category": "Watch",
+      "description": "Sonata brings affordable fashion watches with trendy styles. These watches are perfect for daily wear with reliable performance and classy looks.",
+      "price": 300
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2016/02/17/15/37/laptop-1205256_640.jpg",
+      "id": 3,
+      "name": "Dell",
+      "category": "Laptop",
+      "description": "Dell laptops deliver power and productivity with sleek designs. Ideal for work and play, they offer long battery life and crisp displays for daily use.",
+      "price": 30000
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2017/06/20/23/15/coffee-2425303_640.jpg",
+      "id": 4,
+      "name": "HP",
+      "category": "Laptop",
+      "description": "HP laptops are known for their performance, reliability, and style. Great for professionals and students alike with impressive hardware and support.",
+      "price": 30000
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324_640.jpg",
+      "id": 5,
+      "name": "iPhone",
+      "category": "SmartPhone",
+      "description": "iPhones offer top-notch performance, camera quality, and build. With iOS features and premium design, they remain a symbol of innovation and status.",
+      "price": 100000
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2022/09/25/22/25/iphone-7479306_640.jpg",
+      "id": 6,
+      "name": "Samsung",
+      "category": "SmartPhone",
+      "description": "Samsung smartphones blend innovation and performance. Known for vivid displays, strong cameras, and smooth Android experience across all price ranges.",
+      "price": 30000
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876_640.jpg",
+      "id": 7,
+      "name": "LLoyed",
+      "category": "TV",
+      "description": "Lloyed TVs offer great picture quality and features at affordable prices. Enjoy immersive visuals, smart TV features, and elegant design in your home.",
+      "price": 40000
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2017/02/02/22/17/sony-slt-a58-2033999_640.jpg",
+      "id": 8,
+      "name": "Sony WH-1000XM4",
+      "category": "Headphones",
+      "description": "Sony's premium noise-canceling headphones with crystal-clear audio, long battery life, and touch controls. Perfect for travel, work, or leisure.",
+      "price": 25000
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2022/11/23/19/51/sound-7612799_640.jpg",
+      "id": 9,
+      "name": "JBL Go",
+      "category": "Speaker",
+      "description": "Compact and powerful, JBL Go delivers quality sound and portability. A perfect choice for wireless music on the go with great battery backup.",
+      "price": 2500
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2016/04/30/05/04/camera-1362419_640.jpg",
+      "id": 10,
+      "name": "Canon DSLR",
+      "category": "Camera",
+      "description": "Canon DSLR cameras offer professional-grade photography with advanced features, superior lenses, and excellent clarity for stunning results.",
+      "price": 55000
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2013/05/24/02/09/computer-mouse-113100_640.jpg",
+      "id": 11,
+      "name": "Logitech Mouse",
+      "category": "Accessories",
+      "description": "Ergonomic wireless mouse from Logitech with precision tracking, long battery life, and comfortable design for daily productivity and gaming.",
+      "price": 1200
+    },
+    {
+      "img1": "https://cdn.pixabay.com/photo/2022/01/30/17/15/keyboard-6981763_640.jpg",
+      "id": 12,
+      "name": "Mechanical Keyboard",
+      "category": "Accessories",
+      "description": "High-performance mechanical keyboard with backlit keys, responsive typing, and durable build—ideal for programmers, gamers, and office users.",
+      "price": 3500
+    }
+  ]
+}
